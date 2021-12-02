@@ -1,0 +1,1 @@
+This is a simple exercise where I do a GET request using the NIST's API. Python and Json are used to sort the data. 
